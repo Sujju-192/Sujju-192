@@ -27,29 +27,17 @@ Currently exploring:
 
 # ⚙️ Tech Stack
 
-### Frontend
+## 🚀 Frontend
+![Frontend](https://skillicons.dev/icons?i=react,html,css,js,tailwind)
 
-React
-TailwindCSS
-Framer Motion
-HTML5
-CSS3
-JavaScript
+## ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase)
 
+## 💻 Languages
+![Languages](https://skillicons.dev/icons?i=python,java,cpp,c)
 
-### Backend
-
-Node.js
-Express.js
-MongoDB
-Firebase
-
-### Languages
-
-Python
-Java
-C++
-C
+## 🛠 Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,blender)
 
 
 ---
