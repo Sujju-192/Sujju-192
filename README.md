@@ -107,8 +107,6 @@ Building platforms that combine:
 LinkedIn  
 www.linkedin.com/in/suraj-das-3b9a76317
 
-LeetCode  
-leetcode.com/u/Sujju_192
 
 ### Tools & Dev Environment
 
